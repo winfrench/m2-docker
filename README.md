@@ -1,1 +1,1 @@
-# m2-php
+# m2-magento
